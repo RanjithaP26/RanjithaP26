@@ -1,4 +1,4 @@
-<img src="https://github.com/RanjithaP26/RanjithaP26/blob/main/banner.png" width="100%" height="25%">
+
 
 <h1 align="center">Hi 👋, I'm RANJITHA P</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
