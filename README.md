@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 📫 How to reach me **ranjitharose36@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
